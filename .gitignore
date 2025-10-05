@@ -1,0 +1,22 @@
+# Ignore compiled class files
+*.class
+bin/
+out/
+target/
+
+# Ignore data or log files
+*.dat
+*.log
+
+# Ignore JCreator or IDE-specific files
+*.jcp
+*.jcw
+*.bak
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+.DS_Store
+Thumbs.db
