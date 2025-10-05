@@ -32,7 +32,7 @@ A console-based Java project developed using JCreator IDE for managing customer 
 
 &nbsp;  javac BankApp.java
 
-Run the program:
+2\. Run the program:
 
 
 
