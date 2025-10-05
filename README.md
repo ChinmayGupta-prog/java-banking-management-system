@@ -1,4 +1,4 @@
-\# Java Banking Management System 💰
+\# Java Banking Management System
 
 
 
